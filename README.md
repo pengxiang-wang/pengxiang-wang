@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a PhD student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/en/), [Peking University](https://english.pku.edu.cn), researching on continual learning.
+
+
+
 <!--
 **pengxiang-wang/pengxiang-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
